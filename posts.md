@@ -9,3 +9,4 @@ Read this before choosing a topic. Append one line per new carousel.
 
 Notes: Metricool only lists posts from about 2026-10-01 onward, so older posts exist that are not listed here.
 Ayush has also covered OOP, data structures, APIs, REST APIs and access modifiers. Avoid these and anything close to them; when unsure, choose a clearly different topic.
+- 2026-10-11 | Optional in Java | folder: 2026-10-11-java-optional | draft for 18:40 IST, awaiting Ayush's approval

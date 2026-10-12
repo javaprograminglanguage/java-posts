@@ -1,0 +1,16 @@
+The var Keyword in Java ☕
+
+Stop typing the same type twice.
+
+✅ var (Java 10+) lets the compiler infer the type
+✅ It is still static typing, not dynamic
+✅ Works for local variables only
+✅ Needs an initializer and can't be null
+
+Save this post for revision 📌
+
+Do you use var in your code, or do you prefer explicit types? Tell me below 👇
+
+Follow @javaprograminglanguage for daily Java!
+
+#java #javaprogramming #javavar #java10 #learnjava #javadeveloper #coding #programming #cleancode #softwaredeveloper #backenddeveloper #developer

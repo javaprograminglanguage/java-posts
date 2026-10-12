@@ -1,0 +1,16 @@
+Checked vs Unchecked Exceptions in Java ☕
+
+A classic interview question, explained in 7 slides.
+
+✅ Checked exceptions: the compiler forces you to handle or declare them
+✅ Unchecked exceptions extend RuntimeException and usually mean a bug
+✅ Use checked when the caller can recover
+✅ Your custom exception's parent class decides which kind it is
+
+Save this post for revision 📌
+
+Which kind do you use more in your projects? Tell me below 👇
+
+Follow @javaprograminglanguage for daily Java!
+
+#java #javaprogramming #exceptionhandling #javaexceptions #interviewprep #codinginterview #learnjava #javadeveloper #coding #programming #backenddeveloper #developer

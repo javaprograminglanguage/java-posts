@@ -18,6 +18,6 @@ Ayush has also covered OOP, data structures, APIs, REST APIs and access modifier
 - Earlier reels also covered switch expressions and removeIf/ConcurrentModificationException. Do not repeat them.
 
 Format: Ayush wants CAROUSELS ONLY (3 per day). The reel tasks are switched off; do not create reels.
-- 2026-10-13 | Java is always pass by value | folder: 2026-10-13-java-pass-by-value | scheduled (IST slots 18:00, 18:40, 19:20)
-- 2026-10-13 | JVM Stack vs Heap | folder: 2026-10-13-jvm-stack-vs-heap | scheduled (IST slots 18:00, 18:40, 19:20)
-- 2026-10-13 | Spring constructor injection vs @Autowired fields | folder: 2026-10-13-spring-constructor-injection | scheduled (IST slots 18:00, 18:40, 19:20)
+- 2026-10-13 | Java is always pass by value | folder: 2026-10-13-java-pass-by-value | scheduled (18:00 IST)
+- 2026-10-13 | JVM Stack vs Heap | folder: 2026-10-13-jvm-stack-vs-heap | scheduled (18:40 IST)
+- 2026-10-13 | Spring constructor injection vs @Autowired fields | folder: 2026-10-13-spring-constructor-injection | scheduled (19:20 IST)

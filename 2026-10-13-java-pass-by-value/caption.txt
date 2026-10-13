@@ -1,0 +1,16 @@
+Pass by Value in Java ☕
+
+Java is ALWAYS pass by value. Even for objects.
+
+✅ Primitives: the method gets a copy of the value
+✅ Objects: the method gets a copy of the reference
+✅ Changing the object's fields is visible to the caller
+✅ Reassigning the parameter is NOT visible to the caller
+
+Save this post for revision 📌
+
+Did you think Java passes objects by reference? Tell me below 👇
+
+Follow @javaprograminglanguage for daily Java!
+
+#java #javaprogramming #passbyvalue #javabasics #learnjava #javadeveloper #interviewprep #codinginterview #coding #programming #backenddeveloper #developer

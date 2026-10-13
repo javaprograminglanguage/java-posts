@@ -1,0 +1,16 @@
+Stack vs Heap in Java ☕
+
+Where does your data actually live in the JVM?
+
+✅ Stack: one per thread, holds method frames, local variables and references
+✅ Heap: shared by all threads, holds every object and is garbage collected
+✅ Endless recursion → StackOverflowError
+✅ Too many live objects → OutOfMemoryError
+
+Save this post for revision 📌
+
+Have you ever debugged an OutOfMemoryError? Tell me below 👇
+
+Follow @javaprograminglanguage for daily Java!
+
+#java #jvm #javamemory #garbagecollection #stackandheap #javaprogramming #learnjava #javadeveloper #interviewprep #coding #programming #backenddeveloper

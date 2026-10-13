@@ -1,0 +1,7 @@
+1|Dark slide: "Java is always pass by value." Even for objects.
+2|Code: inc(int x) increments x, but the caller's a is still 5.
+3|Three cards: variable holds a reference; method gets a copy; both point to the same heap object.
+4|Code: rename(User u) sets u.name to "Bob"; the caller sees the change.
+5|Code: reset(User u) assigns a new User; the caller's user is unchanged.
+6|Interview answer: always pass by value, references are copied too, never by reference.
+7|Recap: primitives copy the value, objects copy the reference. Follow @javaprograminglanguage.

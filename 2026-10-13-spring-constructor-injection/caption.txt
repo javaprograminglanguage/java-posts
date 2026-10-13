@@ -1,0 +1,16 @@
+Constructor Injection in Spring Boot ☕
+
+Stop putting @Autowired on fields. Ask for your dependencies in the constructor instead.
+
+✅ Fields can be final, so your beans are immutable
+✅ Unit test with plain "new", no Spring context needed
+✅ Dependencies are visible right in the constructor
+✅ A single constructor needs no @Autowired
+
+Save this post for revision 📌
+
+Field injection or constructor injection, which do you use? Tell me below 👇
+
+Follow @javaprograminglanguage for daily Java!
+
+#java #springboot #spring #dependencyinjection #cleancode #javaprogramming #javadeveloper #backenddeveloper #learnjava #interviewprep #coding #programming

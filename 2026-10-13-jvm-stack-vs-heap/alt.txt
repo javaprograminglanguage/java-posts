@@ -1,0 +1,7 @@
+1|Dark slide: "Where does your data live?" Stack vs Heap in 60 seconds.
+2|Three cards: the stack holds method calls, local variables, and is freed automatically.
+3|Three cards: the heap holds all objects, is shared by threads and garbage collected.
+4|Code: int n on the stack; User u reference on the stack, the User object on the heap.
+5|Code: a method calling itself endlessly causes StackOverflowError.
+6|Three cards: OutOfMemoryError cause, typical culprit (growing cache) and fix.
+7|Recap: stack for calls, heap for objects. Follow @javaprograminglanguage.

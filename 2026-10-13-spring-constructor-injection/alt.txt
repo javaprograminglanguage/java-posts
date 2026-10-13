@@ -1,0 +1,7 @@
+1|Dark slide: "Stop using @Autowired on fields." Use constructor injection.
+2|Code: an OrderService with an @Autowired field OrderRepo repo.
+3|Code: OrderService with a private final OrderRepo set in the constructor.
+4|Three cards: fields can be final, immutable, never half-built.
+5|Code: new OrderService(mockRepo) in a plain unit test, no Spring context.
+6|Three cards: dependencies are visible, fail fast at startup, spot classes doing too much.
+7|Recap: constructor first, fields never. Follow @javaprograminglanguage.

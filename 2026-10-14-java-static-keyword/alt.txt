@@ -1,0 +1,7 @@
+1|Dark slide: "What does static really mean?" It belongs to the class, not the object.
+2|Code: a Counter class with a static count field; two objects created, Counter.count is 2.
+3|Code: a static method MathUtil.twice(int) called on the class without creating an object, result 8.
+4|Code: a static method using the instance field name, marked as a compile error.
+5|Three cards: public static void main, Math.max(a, b), and static final constants.
+6|Three cards: shared mutable state, harder to test, static methods are hidden not overridden.
+7|Recap: static belongs to the class, needs no object, can't touch instance fields. Follow @javaprograminglanguage.

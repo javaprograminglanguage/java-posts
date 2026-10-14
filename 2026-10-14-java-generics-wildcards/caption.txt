@@ -1,0 +1,16 @@
+Generics Wildcards in Java ☕
+
+Why isn't List<Integer> a List<Number>? A favorite interview question.
+
+✅ Generics are invariant: Integer is a Number, but the lists are unrelated
+✅ ? extends T is for reading (the producer)
+✅ ? super T is for writing (the consumer)
+✅ Remember PECS: Producer Extends, Consumer Super
+
+Save this post for revision 📌
+
+Did PECS ever confuse you? Tell me below 👇
+
+Follow @javaprograminglanguage for daily Java!
+
+#java #javaprogramming #generics #javagenerics #wildcards #interviewprep #codinginterview #learnjava #javadeveloper #coding #programming #backenddeveloper

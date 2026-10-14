@@ -1,0 +1,16 @@
+The static Keyword in Java ☕
+
+Is it the class's or the object's? static means the class's.
+
+✅ A static variable has one copy shared by every object
+✅ A static method is called on the class, no object needed
+✅ Static code can't touch instance fields directly
+✅ Be careful with shared mutable static state
+
+Save this post for revision 📌
+
+Where do you use static the most? Tell me below 👇
+
+Follow @javaprograminglanguage for daily Java!
+
+#java #javaprogramming #statickeyword #javabasics #learnjava #javadeveloper #oop #interviewprep #coding #programming #backenddeveloper #developer

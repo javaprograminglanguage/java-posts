@@ -1,0 +1,7 @@
+1|Dark slide: "Why isn't List<Integer> a List<Number>?" Wildcards and PECS, explained.
+2|Code: assigning a List<Integer> to a List<Number> is a compile error because generics are invariant.
+3|Code: if it were allowed, adding 3.14 would put a Double into an Integer list.
+4|Code: sum(List<? extends Number>) reads each Number; you can read but not add.
+5|Code: fill(List<? super Integer>) adds 1 and 2; accepts List<Number> too.
+6|Three cards: Producer Extends, Consumer Super, and use T when you both read and write.
+7|Recap: read with extends, write with super. Follow @javaprograminglanguage.

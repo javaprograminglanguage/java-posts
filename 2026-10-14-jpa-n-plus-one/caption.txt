@@ -1,0 +1,16 @@
+The JPA N+1 Problem ☕
+
+You ran 1 query. Hibernate ran 101.
+
+✅ @OneToMany is lazy by default
+✅ Looping and calling getBooks() runs one extra query per author
+✅ Fix it with join fetch in a @Query
+✅ Or add @EntityGraph to the repository method
+
+Save this post for revision 📌
+
+Have you ever found N+1 in your SQL logs? Tell me below 👇
+
+Follow @javaprograminglanguage for daily Java!
+
+#java #springboot #jpa #hibernate #springdatajpa #nplusone #database #performance #javadeveloper #backenddeveloper #coding #programming

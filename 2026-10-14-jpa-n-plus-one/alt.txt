@@ -1,0 +1,7 @@
+1|Dark slide: "1 query became 101." The JPA N+1 problem.
+2|Code: an Author entity with a lazy @OneToMany list of books.
+3|Code: looping over findAll() authors and calling getBooks().size() triggers a query per author.
+4|Three cards: 1 query for authors, plus 100 queries for books, equals 101 queries.
+5|Code: a @Query with select distinct a from Author a join fetch a.books.
+6|Code: @EntityGraph(attributePaths = "books") on a findAll repository method.
+7|Recap: lazy loops cost N extra queries, fix with join fetch or EntityGraph, read the SQL log. Follow @javaprograminglanguage.

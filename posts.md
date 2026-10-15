@@ -25,3 +25,6 @@ Format: Ayush wants CAROUSELS ONLY (3 per day). The reel tasks are switched off;
 - 2026-10-14 | Generics wildcards (? extends / ? super, PECS) | folder: 2026-10-14-java-generics-wildcards | draft (slot 18:40 IST)
 - 2026-10-14 | JPA N+1 problem | folder: 2026-10-14-jpa-n-plus-one | draft (slot 19:20 IST)
 - 2026-10-14 | final vs finally vs finalize (bold-cover redesign test) | folder: 2026-10-14-final-finally-finalize | scheduled 19:57 IST, approved by Ayush ('post now')
+- 2026-10-15 | Java Text Blocks (Java 15+) | folder: 2026-10-15-java-text-blocks | draft (slot 18:00 IST)
+- 2026-10-15 | Deadlock in Java | folder: 2026-10-15-java-deadlock | draft (slot 18:40 IST)
+- 2026-10-15 | Spring Boot @RestControllerAdvice + ProblemDetail | folder: 2026-10-15-spring-restcontrolleradvice | draft (slot 19:20 IST)

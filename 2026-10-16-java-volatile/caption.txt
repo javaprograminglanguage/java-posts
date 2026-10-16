@@ -1,0 +1,15 @@
+Java volatile keyword ☕
+
+Your thread keeps running even after you set the flag to false? 🛑
+
+✅ A plain boolean flag may never be seen by another thread
+✅ volatile makes every write visible to all threads
+✅ volatile does not make count++ atomic
+✅ Use AtomicInteger or synchronized for counters
+
+Save this post for revision 📌
+Have you ever been asked about volatile in an interview? Tell me below 👇
+
+Follow @javaprograminglanguage for daily Java!
+
+#java #javaprogramming #javadeveloper #multithreading #concurrency #volatile #javainterview #interviewquestions #programming #coding #backenddeveloper #softwareengineer

@@ -1,0 +1,9 @@
+[
+ "Hook slide: JUnit 5. One test, many inputs, no copy-paste. Parameterized tests.",
+ "Code: three near identical @Test methods calling f(2), f(4) and f(6). Boring to write, painful to maintain.",
+ "Swap @Test for @ParameterizedTest, add a source for the inputs. The junit-jupiter dependency includes params.",
+ "Code: @ParameterizedTest with @ValueSource(ints = {2, 4, 6}) runs isEven three times.",
+ "Code: @ParameterizedTest with @CsvSource({\"1,2,3\", \"4,5,9\"}) runs add once per row.",
+ "Code: @ParameterizedTest(name = \"{0} + {1} = {2}\") gives readable test names. Also @MethodSource and @EnumSource.",
+ "Recap: write once, test many. Use @ParameterizedTest, pick a source, use @CsvSource for rows, name the cases."
+]

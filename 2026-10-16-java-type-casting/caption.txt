@@ -1,0 +1,15 @@
+Java Type Casting ☕
+
+Why does 7 / 2 give 3.0 in Java? 🤔
+
+✅ Widening (int → long → double) is automatic
+✅ Narrowing needs an explicit cast and cuts decimals
+✅ Too-big values silently wrap: (byte) 130 = -126
+✅ Cast before you divide: (double) 7 / 2 = 3.5
+
+Save this post for revision 📌
+Did a cast ever give you a surprising result? Tell me below 👇
+
+Follow @javaprograminglanguage for daily Java!
+
+#java #javaprogramming #javadeveloper #typecasting #programming #coding #learnjava #softwaredeveloper #codingtips #javabeginners #computerscience #developer

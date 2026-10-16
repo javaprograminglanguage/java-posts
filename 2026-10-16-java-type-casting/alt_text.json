@@ -1,0 +1,9 @@
+[
+ "Hook slide: Type casting without surprises. Widening vs narrowing in Java.",
+ "Code: int i = 42; long l = i; double d = l; Widening is automatic, no cast needed.",
+ "Code: double d = 3.99; int i = (int) d; i is 3. Decimals are cut, not rounded.",
+ "Code: int n = 130; byte b = (byte) n; b is -126. Too big values silently wrap around.",
+ "Code: 7 / 2 assigned to double gives 3.0, while (double) 7 / 2 gives 3.5. Cast one side first.",
+ "Code: a char is a number too. 'A' is 65 and (char) (c + 1) is 'B'.",
+ "Recap: widening is automatic, narrowing needs a cast, overflow wraps silently, cast before you divide."
+]

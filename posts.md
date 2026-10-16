@@ -28,3 +28,6 @@ Format: Ayush wants CAROUSELS ONLY (3 per day). The reel tasks are switched off;
 - 2026-10-15 | Java Text Blocks (Java 15+) | folder: 2026-10-15-java-text-blocks | draft (slot 18:00 IST)
 - 2026-10-15 | Deadlock in Java | folder: 2026-10-15-java-deadlock | draft (slot 18:40 IST)
 - 2026-10-15 | Spring Boot @RestControllerAdvice + ProblemDetail | folder: 2026-10-15-spring-restcontrolleradvice | draft (slot 19:20 IST)
+- 2026-10-16 | Java type casting (widening/narrowing) | folder: 2026-10-16-java-type-casting | draft (slot 18:00 IST)
+- 2026-10-16 | Java volatile keyword | folder: 2026-10-16-java-volatile | draft (slot 18:40 IST)
+- 2026-10-16 | JUnit 5 parameterized tests | folder: 2026-10-16-junit5-parameterized-tests | draft (slot 19:20 IST)

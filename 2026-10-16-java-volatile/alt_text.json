@@ -1,0 +1,9 @@
+[
+ "Hook slide: Why won't my thread stop? Java volatile explained.",
+ "Thread A sets running to false, Thread B may still see true, so the loop may never end.",
+ "Code: a plain boolean running flag read in a while loop may never see the change.",
+ "Code: declare the flag as volatile boolean running so every write is visible to every thread.",
+ "Code: volatile int count with count++ is read, add, write. Two threads can overlap and lose updates.",
+ "Code: use AtomicInteger and incrementAndGet for atomic updates, or use synchronized.",
+ "Recap: flags use volatile, counters use Atomic. volatile means visibility, not mutual exclusion."
+]

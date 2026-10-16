@@ -1,0 +1,15 @@
+JUnit 5 Parameterized Tests ☕
+
+Stop copy-pasting the same test with different inputs! 🧪
+
+✅ Replace @Test with @ParameterizedTest
+✅ @ValueSource runs the test once per value
+✅ @CsvSource gives several arguments per row
+✅ Use name = "{0} + {1} = {2}" for readable reports
+
+Save this post for revision 📌
+Do you write parameterized tests or copy-paste? Tell me below 👇
+
+Follow @javaprograminglanguage for daily Java!
+
+#java #junit #junit5 #unittesting #testing #springboot #javaprogramming #javadeveloper #softwaretesting #tdd #cleancode #programming

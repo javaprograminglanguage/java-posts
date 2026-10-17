@@ -31,3 +31,7 @@ Format: Ayush wants CAROUSELS ONLY (3 per day). The reel tasks are switched off;
 - 2026-10-16 | Java type casting (widening/narrowing) | folder: 2026-10-16-java-type-casting | draft (slot 18:00 IST)
 - 2026-10-16 | Java volatile keyword | folder: 2026-10-16-java-volatile | draft (slot 18:40 IST)
 - 2026-10-16 | JUnit 5 parameterized tests | folder: 2026-10-16-junit5-parameterized-tests | draft (slot 19:20 IST)
+- 2026-10-15 / 2026-10-16 note: Metricool shows those six posts with status ERROR (rescheduled to ~22:00-23:25 IST and failed), so they may NOT be live. Not repeated today either way.
+- 2026-10-17 | Java enums | folder: 2026-10-17-java-enums | draft (slot 18:00 IST)
+- 2026-10-17 | Comparable vs Comparator | folder: 2026-10-17-comparable-vs-comparator | draft (slot 18:40 IST)
+- 2026-10-17 | Spring Boot profiles | folder: 2026-10-17-spring-boot-profiles | draft (slot 19:20 IST)

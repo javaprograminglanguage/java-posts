@@ -35,3 +35,7 @@ Format: Ayush wants CAROUSELS ONLY (3 per day). The reel tasks are switched off;
 - 2026-10-17 | Java enums | folder: 2026-10-17-java-enums | scheduled 18:00 IST, approved by Ayush ("yes all")
 - 2026-10-17 | Comparable vs Comparator | folder: 2026-10-17-comparable-vs-comparator | scheduled 18:40 IST, approved by Ayush ("yes all")
 - 2026-10-17 | Spring Boot profiles | folder: 2026-10-17-spring-boot-profiles | scheduled 19:20 IST, approved by Ayush ("yes all")
+- 2026-10-18 | Java varargs | folder: 2026-10-18-java-varargs | draft (slot 18:00 IST)
+- 2026-10-18 | CompletableFuture | folder: 2026-10-18-completablefuture | draft (slot 18:40 IST)
+- 2026-10-18 | Git merge vs rebase | folder: 2026-10-18-git-rebase-vs-merge | draft (slot 19:20 IST)
+- NOTE 2026-10-18: Metricool reported 'Instagram was disconnected' for every post since 2026-10-15 22:00 IST; posts from 10-15 to 10-17 show ERROR and may not be live.

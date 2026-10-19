@@ -39,3 +39,7 @@ Format: Ayush wants CAROUSELS ONLY (3 per day). The reel tasks are switched off;
 - 2026-10-18 | CompletableFuture | folder: 2026-10-18-completablefuture | scheduled 18:40 IST, approved by Ayush ("yes all")
 - 2026-10-18 | Git merge vs rebase | folder: 2026-10-18-git-rebase-vs-merge | scheduled 19:20 IST, approved by Ayush ("yes all")
 - NOTE 2026-10-18: Metricool reported 'Instagram was disconnected' for every post since 2026-10-15 22:00 IST; posts from 10-15 to 10-17 show ERROR and may not be live.
+- 2026-10-19 | Short-circuit operators (&& vs &) | folder: 2026-10-19-short-circuit-operators | draft (slot 18:00 IST)
+- 2026-10-19 | try-with-resources | folder: 2026-10-19-try-with-resources | draft (slot 18:40 IST)
+- 2026-10-19 | JDBC PreparedStatement vs Statement (SQL injection) | folder: 2026-10-19-jdbc-preparedstatement | draft (slot 19:20 IST)
+- NOTE 2026-10-19: Metricool getAnalyticsDataByMetrics (IGPO02/03/07/06, 10-01 to now) returned no rows this run, so published captions could not be cross-checked.

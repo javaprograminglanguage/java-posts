@@ -1,0 +1,16 @@
+PreparedStatement vs Statement (JDBC) ☕
+
+One string concatenation can expose your whole database.
+
+✅ Building SQL with + opens the door to SQL injection
+✅ PreparedStatement uses ? placeholders for values
+✅ Values are bound as data, never executed as SQL
+✅ ? works for values only, so whitelist column and table names
+
+Save this post for revision 📌
+
+Have you ever seen SQL built with string concatenation in a real project? Tell me below 👇
+
+Follow @javaprograminglanguage for daily Java!
+
+#java #jdbc #sqlinjection #javaprogramming #javadeveloper #backenddeveloper #database #cybersecurity #coding #programming #softwaredeveloper #learnjava

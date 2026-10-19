@@ -1,0 +1,16 @@
+try-with-resources in Java ☕
+
+Still closing streams and connections in finally blocks? There is a cleaner way.
+
+✅ Declare the resource inside try ( ) and Java closes it for you
+✅ Works with any class that implements AutoCloseable
+✅ Multiple resources are closed in reverse order
+✅ Exceptions from close() are kept as suppressed, not lost
+
+Save this post for revision 📌
+
+Do you still write finally blocks to close resources? Tell me below 👇
+
+Follow @javaprograminglanguage for daily Java!
+
+#java #javaprogramming #javadeveloper #learnjava #javainterview #exceptionhandling #coding #programming #softwaredeveloper #backenddeveloper #codinglife #tech

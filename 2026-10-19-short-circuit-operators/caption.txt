@@ -1,0 +1,16 @@
+&& vs & in Java ☕
+
+Two ANDs, but only one is lazy. Do you know the difference?
+
+✅ && and || stop as soon as the result is known
+✅ & and | on booleans always run both sides
+✅ Use && to guard against NullPointerException
+✅ On ints, & and | work bitwise
+
+Save this post for revision 📌
+
+Did you know & also works on booleans? Tell me below 👇
+
+Follow @javaprograminglanguage for daily Java!
+
+#java #javaprogramming #javadeveloper #learnjava #javabasics #coding #programming #softwaredeveloper #javainterview #codinglife #developer #tech

@@ -1,0 +1,16 @@
+Integer Overflow in Java ☕
+
+Integer.MAX_VALUE + 1 is negative, and Java will not warn you.
+
+✅ int has 32 bits, so past the max it wraps to the minimum
+✅ 1_000_000 * 1_000_000 is computed as int first, even if you store it in a long
+✅ Math.addExact() and multiplyExact() throw ArithmeticException on overflow
+✅ Use long or BigInteger when values can get big
+
+Save this post for revision 📌
+
+Have you ever been bitten by an overflow bug? Tell me below 👇
+
+Follow @javaprograminglanguage for daily Java!
+
+#java #javaprogramming #javadeveloper #learnjava #javabasics #coding #programming #softwaredeveloper #javainterview #codinglife #developer #tech

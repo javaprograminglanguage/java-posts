@@ -43,3 +43,7 @@ Format: Ayush wants CAROUSELS ONLY (3 per day). The reel tasks are switched off;
 - 2026-10-19 | try-with-resources | folder: 2026-10-19-try-with-resources | draft (slot 18:40 IST)
 - 2026-10-19 | JDBC PreparedStatement vs Statement (SQL injection) | folder: 2026-10-19-jdbc-preparedstatement | draft (slot 19:20 IST)
 - NOTE 2026-10-19: Metricool getAnalyticsDataByMetrics (IGPO02/03/07/06, 10-01 to now) returned no rows this run, so published captions could not be cross-checked.
+- 2026-10-20 | Integer overflow in Java | folder: 2026-10-20-integer-overflow | draft (slot 18:00 IST)
+- 2026-10-20 | Sealed classes (Java 17, switch Java 21) | folder: 2026-10-20-sealed-classes | draft (slot 18:40 IST)
+- 2026-10-20 | Spring Boot @ConfigurationProperties vs @Value | folder: 2026-10-20-configurationproperties-vs-value | draft (slot 19:20 IST)
+- NOTE 2026-10-20: Metricool analytics again returned no rows; yesterday's three 10-19 posts are still drafts in Metricool (never published).

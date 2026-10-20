@@ -1,0 +1,16 @@
+@ConfigurationProperties vs @Value ☕
+
+Still injecting every property with @Value? Spring Boot has a cleaner way.
+
+✅ @Value is great for one-off values and supports SpEL
+✅ @ConfigurationProperties binds a whole prefix to a record or class
+✅ You get type conversion, validation and relaxed binding for free
+✅ Register it with @ConfigurationPropertiesScan
+
+Save this post for revision 📌
+
+Which one do you use in your Spring Boot projects? Tell me below 👇
+
+Follow @javaprograminglanguage for daily Java!
+
+#java #springboot #spring #javaprogramming #javadeveloper #backenddeveloper #learnjava #coding #programming #softwaredeveloper #microservices #tech

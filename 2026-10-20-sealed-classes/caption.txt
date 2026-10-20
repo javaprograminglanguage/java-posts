@@ -1,0 +1,16 @@
+Sealed Classes in Java ☕
+
+Want to control exactly who can extend your class or interface? Seal it.
+
+✅ sealed + permits lists the only allowed subtypes (final in Java 17)
+✅ Every subtype must be final, sealed or non-sealed
+✅ A switch over a sealed type needs no default (pattern matching, Java 21)
+✅ Add a new subtype and the compiler flags every switch you forgot
+
+Save this post for revision 📌
+
+Would you use sealed types in your projects? Tell me below 👇
+
+Follow @javaprograminglanguage for daily Java!
+
+#java #javaprogramming #javadeveloper #sealedclasses #java17 #java21 #learnjava #coding #programming #softwaredeveloper #javainterview #tech

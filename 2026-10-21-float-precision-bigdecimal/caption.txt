@@ -1,0 +1,16 @@
+Floating-Point Precision in Java ☕
+
+0.1 + 0.2 is not 0.3 in Java, and it is not a bug.
+
+✅ double stores binary approximations, so many decimals are slightly off
+✅ Never compare doubles with ==, use a small tolerance (epsilon)
+✅ Use BigDecimal for money and exact decimal math
+✅ Build BigDecimal from a String, and compare with compareTo()
+
+Save this post for revision 📌
+
+What is the weirdest number bug you have seen? Tell me below 👇
+
+Follow @javaprograminglanguage for daily Java!
+
+#java #javaprogramming #javadeveloper #learnjava #javabasics #bigdecimal #floatingpoint #coding #programming #softwaredeveloper #javainterview #codinglife #tech

@@ -1,0 +1,16 @@
+Git Stash Explained ☕
+
+Switch branches without committing half-done work.
+
+✅ git stash saves your tracked changes and gives you a clean tree
+✅ git stash pop restores and deletes, git stash apply restores and keeps
+✅ Use git stash -u to include untracked files
+✅ Name stashes with git stash push -m "message"
+
+Save this post for revision 📌
+
+Do you stash or commit WIP? Tell me below 👇
+
+Follow @javaprograminglanguage for daily Java!
+
+#git #github #gittips #versioncontrol #devtools #java #javadeveloper #coding #programming #softwaredeveloper #developer #codinglife #tech

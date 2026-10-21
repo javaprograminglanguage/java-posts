@@ -47,3 +47,7 @@ Format: Ayush wants CAROUSELS ONLY (3 per day). The reel tasks are switched off;
 - 2026-10-20 | Sealed classes (Java 17, switch Java 21) | folder: 2026-10-20-sealed-classes | draft (slot 18:40 IST)
 - 2026-10-20 | Spring Boot @ConfigurationProperties vs @Value | folder: 2026-10-20-configurationproperties-vs-value | draft (slot 19:20 IST)
 - NOTE 2026-10-20: Metricool analytics again returned no rows; yesterday's three 10-19 posts are still drafts in Metricool (never published).
+- 2026-10-21 | Floating-point precision (0.1+0.2) & BigDecimal | folder: 2026-10-21-float-precision-bigdecimal | draft (slot 18:00 IST)
+- 2026-10-21 | ConcurrentHashMap vs HashMap | folder: 2026-10-21-concurrenthashmap-vs-hashmap | draft (slot 18:40 IST)
+- 2026-10-21 | Git stash | folder: 2026-10-21-git-stash | draft (slot 19:20 IST)
+- NOTE 2026-10-21: Metricool analytics again returned no rows. Mockito could not be downloaded (Maven 403), so topic 3 was Git stash.

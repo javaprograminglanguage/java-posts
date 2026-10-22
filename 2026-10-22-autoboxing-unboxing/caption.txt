@@ -1,0 +1,16 @@
+Autoboxing & Unboxing in Java ☕
+
+Integer is not int, and mixing them can bite you.
+
+✅ Autoboxing turns int into Integer, unboxing turns it back
+✅ Collections like List<Integer> can only hold wrapper objects
+✅ Unboxing a null Integer throws a NullPointerException
+✅ Prefer primitives in loops to avoid hidden object creation
+
+Save this post for revision 📌
+
+Have you ever been hit by an unboxing NPE? Tell me below 👇
+
+Follow @javaprograminglanguage for daily Java!
+
+#java #javaprogramming #javadeveloper #autoboxing #wrapperclasses #javabasics #coding #programming #learnjava #softwaredeveloper #developer #codinglife #tech

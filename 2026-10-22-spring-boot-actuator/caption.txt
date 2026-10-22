@@ -1,0 +1,16 @@
+Spring Boot Actuator ☕
+
+Production-ready monitoring, built right into your app.
+
+✅ Add spring-boot-starter-actuator to get health, metrics and info endpoints
+✅ /actuator/health shows whether your app is UP
+✅ Only health is exposed over HTTP by default
+✅ Secure what you expose, avoid include: "*" without protection
+
+Save this post for revision 📌
+
+Do you use Actuator in your projects? Tell me below 👇
+
+Follow @javaprograminglanguage for daily Java!
+
+#springboot #spring #java #actuator #backend #devops #microservices #javadeveloper #javaprogramming #coding #programming #softwaredeveloper #tech

@@ -1,0 +1,16 @@
+How Garbage Collection Works in Java ☕
+
+Java frees memory for you, but how does it decide what to remove?
+
+✅ Objects with no path from a GC root are eligible for collection
+✅ Cyclic references don't keep objects alive
+✅ System.gc() is only a hint, the JVM decides if and when
+✅ Static references can still cause memory leaks
+
+Save this post for revision 📌
+
+Which GC topic should I cover next? Tell me below 👇
+
+Follow @javaprograminglanguage for daily Java!
+
+#java #jvm #garbagecollection #javainterview #javadeveloper #javaprogramming #memorymanagement #coding #programming #softwaredeveloper #developer #interviewprep #tech

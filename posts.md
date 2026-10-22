@@ -51,3 +51,7 @@ Format: Ayush wants CAROUSELS ONLY (3 per day). The reel tasks are switched off;
 - 2026-10-21 | ConcurrentHashMap vs HashMap | folder: 2026-10-21-concurrenthashmap-vs-hashmap | draft (slot 18:40 IST)
 - 2026-10-21 | Git stash | folder: 2026-10-21-git-stash | draft (slot 19:20 IST)
 - NOTE 2026-10-21: Metricool analytics again returned no rows. Mockito could not be downloaded (Maven 403), so topic 3 was Git stash.
+- 2026-10-22 | Autoboxing & unboxing | folder: 2026-10-22-autoboxing-unboxing | draft (slot 18:00 IST)
+- 2026-10-22 | Garbage collection (reachability) | folder: 2026-10-22-garbage-collection | draft (slot 18:40 IST)
+- 2026-10-22 | Spring Boot Actuator | folder: 2026-10-22-spring-boot-actuator | draft (slot 19:20 IST)
+- NOTE 2026-10-22: Metricool analytics again returned no rows; the 10-21 posts were not cross-checked.

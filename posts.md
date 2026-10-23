@@ -55,3 +55,7 @@ Format: Ayush wants CAROUSELS ONLY (3 per day). The reel tasks are switched off;
 - 2026-10-22 | Garbage collection (reachability) | folder: 2026-10-22-garbage-collection | draft (slot 18:40 IST)
 - 2026-10-22 | Spring Boot Actuator | folder: 2026-10-22-spring-boot-actuator | draft (slot 19:20 IST)
 - NOTE 2026-10-22: Metricool analytics again returned no rows; the 10-21 posts were not cross-checked.
+- 2026-10-23 | i++ vs ++i | folder: 2026-10-23-increment-operators | draft (slot 18:00 IST)
+- 2026-10-23 | ExecutorService / thread pools | folder: 2026-10-23-executorservice | draft (slot 18:40 IST)
+- 2026-10-23 | Bean Validation in Spring Boot (@Valid) | folder: 2026-10-23-bean-validation | draft (slot 19:20 IST)
+- NOTE 2026-10-23: Metricool analytics again returned no rows; the 10-22 posts were not cross-checked.

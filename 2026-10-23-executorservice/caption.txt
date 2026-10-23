@@ -1,0 +1,16 @@
+ExecutorService in Java ☕
+
+Still creating a new Thread for every task? There is a better way.
+
+✅ A thread pool reuses a fixed set of worker threads
+✅ submit() returns a Future, and get() blocks until the result is ready
+✅ newFixedThreadPool(n) gives you exactly n workers
+✅ Always call shutdown(), or worker threads can keep the JVM alive
+
+Save this post for revision 📌
+
+Do you use thread pools in your projects? Tell me below 👇
+
+Follow @javaprograminglanguage for daily Java!
+
+#java #concurrency #multithreading #executorservice #javaprogramming #javadeveloper #javainterview #backend #coding #programming #softwaredeveloper #tech

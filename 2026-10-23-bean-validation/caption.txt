@@ -1,0 +1,16 @@
+Bean Validation in Spring Boot ☕
+
+Never trust user input. Let annotations validate it for you.
+
+✅ Add spring-boot-starter-validation to your project
+✅ Annotate fields with @NotBlank, @Email, @Min and more
+✅ Add @Valid on @RequestBody to trigger the checks
+✅ Invalid input is rejected with 400 Bad Request
+
+Save this post for revision 📌
+
+Which validation annotation do you use the most? Tell me below 👇
+
+Follow @javaprograminglanguage for daily Java!
+
+#java #springboot #spring #beanvalidation #backend #restapi #javadeveloper #javaprogramming #coding #programming #softwaredeveloper #tech

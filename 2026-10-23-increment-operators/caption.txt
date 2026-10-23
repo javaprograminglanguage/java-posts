@@ -1,0 +1,16 @@
+i++ vs ++i in Java ☕
+
+Both add 1, but do they return the same value?
+
+✅ i++ returns the old value, then adds 1
+✅ ++i adds 1 first, then returns the new value
+✅ i = i++ leaves i unchanged (the +1 is lost)
+✅ In a plain for loop, both behave the same
+
+Save this post for revision 📌
+
+Which Java basics should I explain next? Tell me below 👇
+
+Follow @javaprograminglanguage for daily Java!
+
+#java #javabasics #javaprogramming #javadeveloper #learnjava #coding #programming #javainterview #softwaredeveloper #developer #beginners #tech

@@ -1,0 +1,16 @@
+Java Ternary Operator (? :) ☕
+
+A one-line if-else, but it hides two classic traps.
+
+✅ Syntax: condition ? ifTrue : ifFalse
+✅ Great for simple choices, avoid deep nesting
+✅ true ? 1 : 2.0 prints 1.0 (types get promoted)
+✅ A null Integer in a ternary can throw an NPE
+
+Save this post for revision 📌
+
+Did you know about the 1.0 trap? Tell me below 👇
+
+Follow @javaprograminglanguage for daily Java!
+
+#java #javabasics #javaprogramming #javadeveloper #learnjava #coding #programming #ternaryoperator #javainterview #softwaredeveloper #beginners #tech

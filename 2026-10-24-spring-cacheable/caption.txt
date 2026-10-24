@@ -1,0 +1,16 @@
+@Cacheable in Spring Boot ☕
+
+Stop running the same slow query again and again.
+
+✅ @EnableCaching turns caching on
+✅ @Cacheable stores a method's result by its arguments
+✅ @CacheEvict removes entries to keep data fresh
+✅ Calling the method from the same class skips the cache
+
+Save this post for revision 📌
+
+Do you cache in your Spring Boot apps? Tell me below 👇
+
+Follow @javaprograminglanguage for daily Java!
+
+#java #springboot #spring #caching #cacheable #javaprogramming #javadeveloper #backenddeveloper #microservices #coding #softwaredeveloper #tech

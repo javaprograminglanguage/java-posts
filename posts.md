@@ -59,3 +59,7 @@ Format: Ayush wants CAROUSELS ONLY (3 per day). The reel tasks are switched off;
 - 2026-10-23 | ExecutorService / thread pools | folder: 2026-10-23-executorservice | draft (slot 18:40 IST)
 - 2026-10-23 | Bean Validation in Spring Boot (@Valid) | folder: 2026-10-23-bean-validation | draft (slot 19:20 IST)
 - NOTE 2026-10-23: Metricool analytics again returned no rows; the 10-22 posts were not cross-checked.
+- 2026-10-24 | Java ternary operator (? :) | folder: 2026-10-24-java-ternary-operator | draft (slot 18:00 IST)
+- 2026-10-24 | ThreadLocal | folder: 2026-10-24-java-threadlocal | draft (slot 18:40 IST)
+- 2026-10-24 | Spring @Cacheable / @CacheEvict | folder: 2026-10-24-spring-cacheable | draft (slot 19:20 IST)
+- NOTE 2026-10-24: Metricool analytics again returned no rows; the 10-23 posts were not cross-checked.

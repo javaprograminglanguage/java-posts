@@ -1,0 +1,16 @@
+ThreadLocal in Java ☕
+
+What if every thread had its own copy of a variable?
+
+✅ ThreadLocal keeps one value per thread
+✅ Use set(), get() and remove()
+✅ Great for per-request data like user or trace id
+✅ In thread pools, always call remove() in finally
+
+Save this post for revision 📌
+
+Have you used ThreadLocal in a project? Tell me below 👇
+
+Follow @javaprograminglanguage for daily Java!
+
+#java #threadlocal #javaconcurrency #multithreading #javaprogramming #javadeveloper #javainterview #backenddeveloper #coding #programming #softwareengineer #tech

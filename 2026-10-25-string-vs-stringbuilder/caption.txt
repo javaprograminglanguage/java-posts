@@ -1,0 +1,16 @@
+String vs StringBuilder in Java ☕
+
+Is your loop slow? The + operator might be the reason.
+
+✅ String is immutable, so every + creates a new object
+✅ Concatenating in a loop copies the text again and again
+✅ StringBuilder edits one buffer with append()
+✅ Plain + is perfectly fine outside loops
+
+Save this post for revision 📌
+
+Do you use StringBuilder in your code? Tell me below 👇
+
+Follow @javaprograminglanguage for daily Java!
+
+#java #string #stringbuilder #javaprogramming #javabasics #javadeveloper #javainterview #learnjava #coding #programming #softwareengineer #tech

@@ -1,0 +1,16 @@
+Logging with SLF4J in Java ☕
+
+Still using System.out.println in your apps? Time to switch!
+
+✅ A logger gives you levels, formats and easy configuration
+✅ Use {} placeholders instead of string concatenation
+✅ Pass the exception as the last argument to keep the stack trace
+✅ Pick the right level: ERROR, WARN, INFO or DEBUG
+
+Save this post for revision 📌
+
+Which logging library do you use? Tell me below 👇
+
+Follow @javaprograminglanguage for daily Java!
+
+#java #slf4j #logging #logback #springboot #javaprogramming #javadeveloper #backenddeveloper #coding #programming #softwareengineer #tech

@@ -63,3 +63,7 @@ Format: Ayush wants CAROUSELS ONLY (3 per day). The reel tasks are switched off;
 - 2026-10-24 | ThreadLocal | folder: 2026-10-24-java-threadlocal | draft (slot 18:40 IST)
 - 2026-10-24 | Spring @Cacheable / @CacheEvict | folder: 2026-10-24-spring-cacheable | draft (slot 19:20 IST)
 - NOTE 2026-10-24: Metricool analytics again returned no rows; the 10-23 posts were not cross-checked.
+- 2026-10-25 | String vs StringBuilder | folder: 2026-10-25-string-vs-stringbuilder | draft (slot 18:00 IST)
+- 2026-10-25 | Immutable lists (List.of vs Arrays.asList vs unmodifiableList) | folder: 2026-10-25-immutable-collections | draft (slot 18:40 IST)
+- 2026-10-25 | Logging with SLF4J | folder: 2026-10-25-slf4j-logging | draft (slot 19:20 IST)
+- NOTE 2026-10-25: Metricool analytics again returned no rows; the 10-24 posts were not cross-checked. add_repo tool was not available but the repo clone already existed.

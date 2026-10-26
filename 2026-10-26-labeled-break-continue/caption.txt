@@ -1,0 +1,16 @@
+Labeled break & continue in Java ☕
+
+Need to escape two nested loops at once? A label does it.
+
+✅ A plain break exits only the innermost loop
+✅ break outer; exits the loop named outer
+✅ continue outer; jumps to the next outer iteration
+✅ Often, extracting a method with return is cleaner
+
+Save this post for revision 📌
+
+Have you ever used a labeled break in real code? Tell me below 👇
+
+Follow @javaprograminglanguage for daily Java!
+
+#java #javaprogramming #javabasics #loops #breakstatement #learnjava #javadeveloper #coding #programming #codingtips #softwareengineer #tech

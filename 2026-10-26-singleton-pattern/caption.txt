@@ -1,0 +1,16 @@
+Singleton Pattern in Java ☕
+
+One class, only one instance. But a lazy singleton can break with threads.
+
+✅ Private constructor + one static instance + getInstance()
+✅ A plain lazy null-check is not thread-safe
+✅ The holder idiom is lazy and thread-safe
+✅ An enum singleton is the simplest and safest default
+
+Save this post for revision 📌
+
+Which singleton style do you prefer? Tell me below 👇
+
+Follow @javaprograminglanguage for daily Java!
+
+#java #singleton #designpatterns #javainterview #javaprogramming #multithreading #javadeveloper #learnjava #coding #programming #softwareengineer #tech

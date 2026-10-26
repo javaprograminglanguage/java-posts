@@ -1,0 +1,16 @@
+git reset: soft vs mixed vs hard ☕
+
+Made a wrong commit? Here is how to undo it without panic.
+
+✅ --soft undoes the commit, keeps changes staged
+✅ --mixed (default) keeps changes but unstages them
+✅ --hard throws your changes away, so be careful
+✅ Already pushed? Prefer git revert on shared branches
+
+Save this post for revision 📌
+
+Which one do you use the most? Tell me below 👇
+
+Follow @javaprograminglanguage for daily Java!
+
+#git #gitreset #github #versioncontrol #devops #javadeveloper #programming #coding #softwareengineer #learntocode #developertools #tech

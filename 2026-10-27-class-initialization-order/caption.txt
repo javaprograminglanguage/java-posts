@@ -1,0 +1,16 @@
+Class Initialization Order in Java ☕
+
+Static block, instance block, constructor. Who runs first?
+
+✅ Static blocks run once per class, parent before child
+✅ Instance blocks run before the constructor body
+✅ The parent constructor always finishes before the child's
+✅ Never call overridable methods from a constructor
+
+Save this post for revision 📌
+
+Did you get the output order right? Tell me below 👇
+
+Follow @javaprograminglanguage for daily Java!
+
+#java #javaprogramming #javainterview #inheritance #constructors #staticblock #javadeveloper #learnjava #coding #programming #softwareengineer #tech

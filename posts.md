@@ -71,3 +71,7 @@ Format: Ayush wants CAROUSELS ONLY (3 per day). The reel tasks are switched off;
 - 2026-10-26 | Singleton pattern (holder idiom, enum) | folder: 2026-10-26-singleton-pattern | draft (slot 18:40 IST)
 - 2026-10-26 | git reset: soft vs mixed vs hard | folder: 2026-10-26-git-reset-modes | draft (slot 19:20 IST)
 - NOTE 2026-10-26: Metricool analytics again returned no rows; the 10-25 posts were not cross-checked. add_repo tool was not available but the repo clone already existed.
+- 2026-10-27 | Java char arithmetic | folder: 2026-10-27-java-char-arithmetic | draft (slot 18:00 IST)
+- 2026-10-27 | Class initialization order | folder: 2026-10-27-class-initialization-order | draft (slot 18:40 IST)
+- 2026-10-27 | git cherry-pick | folder: 2026-10-27-git-cherry-pick | draft (slot 19:20 IST)
+- NOTE 2026-10-27: Metricool analytics again returned no rows; the 10-26 posts were not cross-checked. add_repo not called; repo clone already existed.

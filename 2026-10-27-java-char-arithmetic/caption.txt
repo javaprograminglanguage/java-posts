@@ -1,0 +1,16 @@
+Java char Arithmetic ☕
+
+char + 1 is not a char. Do you know what it really gives?
+
+✅ Arithmetic promotes char to int, so 'a' + 1 gives 98
+✅ Cast back with (char) or use c++ and c += 1
+✅ "" + 'a' + 'b' gives ab, but 'a' + 'b' + "" gives 195
+✅ '7' - '0' turns a digit char into the number 7
+
+Save this post for revision 📌
+
+What does (char)('a' + 2) print? Tell me below 👇
+
+Follow @javaprograminglanguage for daily Java!
+
+#java #javaprogramming #javabasics #learnjava #chardatatype #javainterview #javadeveloper #coding #programming #codingtips #softwareengineer #tech

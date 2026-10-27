@@ -1,0 +1,16 @@
+git cherry-pick Explained ☕
+
+Need just one commit from another branch? Don't merge everything.
+
+✅ cherry-pick copies a single commit to your current branch
+✅ The copy gets a new hash
+✅ Use -x to record the original commit in the message
+✅ On conflict: fix, git add, then --continue (or --abort)
+
+Save this post for revision 📌
+
+Have you ever cherry-picked a hotfix? Tell me below 👇
+
+Follow @javaprograminglanguage for daily Java!
+
+#git #github #gitcommands #versioncontrol #devops #softwaredevelopment #javadeveloper #coding #programming #codingtips #softwareengineer #tech

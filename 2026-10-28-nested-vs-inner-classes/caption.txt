@@ -1,0 +1,16 @@
+Static Nested vs Inner Classes ☕
+
+A class inside a class. Which kind do you have?
+
+✅ Static nested classes need no Outer object
+✅ Inner classes are tied to one Outer object
+✅ Both can read Outer's private fields
+✅ An inner class may keep its Outer alive, so prefer static
+
+Save this post for revision 📌
+
+Do you use inner classes or static nested ones more? Tell me below 👇
+
+Follow @javaprograminglanguage for daily Java!
+
+#java #javaprogramming #javainterview #innerclass #nestedclass #learnjava #javadeveloper #coding #programming #codingtips #softwareengineer #tech

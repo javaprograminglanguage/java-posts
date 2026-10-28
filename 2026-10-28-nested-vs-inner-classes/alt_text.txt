@@ -1,0 +1,7 @@
+Hook: Nested class or inner class? Spot the difference.
+Cards: static nested has no link to an outer object, inner holds a hidden Outer reference.
+Code: static class Nested inside Outer created with new Outer.Nested().
+Code: inner class created from an Outer object with o.new Inner().
+Cards: both read Outer's private fields, inner also uses instance fields, static nested only static members.
+Cards: inner classes may keep Outer alive, make it static if Outer is unused.
+Recap: static nested needs no Outer, inner is tied to one, prefer static.

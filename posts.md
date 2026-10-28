@@ -75,3 +75,7 @@ Format: Ayush wants CAROUSELS ONLY (3 per day). The reel tasks are switched off;
 - 2026-10-27 | Class initialization order | folder: 2026-10-27-class-initialization-order | draft (slot 18:40 IST)
 - 2026-10-27 | git cherry-pick | folder: 2026-10-27-git-cherry-pick | draft (slot 19:20 IST)
 - NOTE 2026-10-27: Metricool analytics again returned no rows; the 10-26 posts were not cross-checked. add_repo not called; repo clone already existed.
+- 2026-10-28 | Java array gotchas | folder: 2026-10-28-java-array-gotchas | draft (slot 18:00 IST)
+- 2026-10-28 | Static nested vs inner classes | folder: 2026-10-28-nested-vs-inner-classes | draft (slot 18:40 IST)
+- 2026-10-28 | Spring @Scheduled | folder: 2026-10-28-spring-scheduled | draft (slot 19:20 IST)
+- NOTE 2026-10-28: Metricool analytics again returned no rows; the 10-27 posts were not cross-checked. add_repo not called; repo clone already existed.

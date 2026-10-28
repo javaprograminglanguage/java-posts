@@ -1,0 +1,16 @@
+Spring @Scheduled ☕
+
+Run code on a timer in Spring Boot with one annotation.
+
+✅ Add @EnableScheduling or @Scheduled is ignored
+✅ fixedRate counts start to start, fixedDelay waits after each run ends
+✅ Spring cron has six fields and starts with seconds
+✅ One scheduler thread by default, and every app instance runs the job
+
+Save this post for revision 📌
+
+What background jobs do you run in your apps? Tell me below 👇
+
+Follow @javaprograminglanguage for daily Java!
+
+#springboot #spring #java #scheduled #cronjob #backenddevelopment #javadeveloper #coding #programming #codingtips #softwareengineer #tech

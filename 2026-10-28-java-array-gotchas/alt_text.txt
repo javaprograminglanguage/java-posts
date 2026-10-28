@@ -1,0 +1,7 @@
+Hook: Printing an array gives garbage. Java array gotchas.
+Code: println of an int array prints a type and hash code like [I@6d06d69c.
+Code: Arrays.toString gives [1, 2, 3] and Arrays.deepToString handles nested arrays.
+Code: == and equals() on two arrays return false, Arrays.equals returns true.
+Cards: int[] is filled with 0, boolean[] with false, String[] with null.
+Code: b = a shares the same array, Arrays.copyOf makes a real copy.
+Recap: print, compare, defaults and copy for Java arrays, follow @javaprograminglanguage.

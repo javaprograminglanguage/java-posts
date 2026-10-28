@@ -1,0 +1,16 @@
+Java Array Gotchas ☕
+
+Printing an array gives garbage. Here are the array traps every Java beginner hits.
+
+✅ println(array) prints a type and hash, use Arrays.toString()
+✅ equals() on arrays compares identity, use Arrays.equals()
+✅ New arrays are pre-filled with 0, false or null
+✅ b = a does not copy, use Arrays.copyOf()
+
+Save this post for revision 📌
+
+Which array gotcha got you first? Tell me below 👇
+
+Follow @javaprograminglanguage for daily Java!
+
+#java #javaprogramming #javabasics #javaarrays #learnjava #javadeveloper #coding #programming #codingtips #softwareengineer #beginnerprogramming #tech

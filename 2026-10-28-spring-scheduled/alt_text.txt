@@ -1,0 +1,7 @@
+Hook: Run code on a timer. Spring @Scheduled.
+Code: @SpringBootApplication and @EnableScheduling on the App class.
+Code: @Scheduled(fixedRate = 5000) on a method that runs every 5 seconds.
+Cards: fixedRate, fixedDelay and initialDelay explained.
+Code: cron expression 0 0 9 * * MON-FRI, six fields with seconds first.
+Cards: one thread by default, bigger pool property, many instances each run the job.
+Recap: EnableScheduling, rate or delay, cron starts with seconds, jobs run on each node.
